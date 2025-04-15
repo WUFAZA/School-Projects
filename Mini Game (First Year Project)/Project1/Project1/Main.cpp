@@ -10,6 +10,7 @@ void displayGrid(char grid[GRID_SIZE][GRID_SIZE]);
 void movePlayer(char grid[GRID_SIZE][GRID_SIZE], int* playerX, int* playerY, int* lives, int* moves);
 
 int main() {
+    printf("First Project run locally");
     char grid[GRID_SIZE][GRID_SIZE];
     int playerX, playerY;
     int lives = 3; // Starting lives

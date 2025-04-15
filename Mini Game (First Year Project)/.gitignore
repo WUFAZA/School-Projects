@@ -1,0 +1,13 @@
+ECHO is on.
+# Ignore Visual Studio settings and build artifacts
+.vs/
+*.suo
+*.vcxproj.*
+*.pdb
+*.idb
+x64/
+*.tlog
+*.exe
+*.log
+*.tmp
+
