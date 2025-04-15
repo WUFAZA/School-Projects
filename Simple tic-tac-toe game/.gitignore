@@ -1,0 +1,41 @@
+ECHO is on.
+# Visual Studio Code settings
+.vscode/
+*.code-workspace
+
+# Node.js dependencies
+node_modules/
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.exe
+*.dll
+*.o
+*.obj
+
+# Debug/Release folders
+/bin/
+/obj/
+/debug/
+/release/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Cache files
+*.cache
+
+# Visual Studio project files
+.vs/
+*.suo
+*.vcxproj.user
+*.vcxproj.filters
